@@ -11,7 +11,7 @@ redirect_from:
  - wiki/Biopython
 ---
 
-See also our
+See also our 
 [News feed](http://www.open-bio.org/category/biopython/).
 
 ### Introduction
